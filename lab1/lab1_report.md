@@ -8,6 +8,8 @@ Lab: Lab1
 Date of create: 03.10.2025
 Date of finished: 06.10.2025
 
+Ссылка на видео с функционалом бота: [ссылка](https://drive.google.com/file/d/15WVbYXnXbuRPaFagLEBohCt_1KBYmwvu/view?usp=share_link)
+
 # Изучение основ Doker:
 
 ## 1.Установка Docker:
